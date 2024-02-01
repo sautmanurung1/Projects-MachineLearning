@@ -1,0 +1,11 @@
+flask
+sklearn
+pandas
+collections
+csv
+flask-socketio
+seaborn
+matplotlib
+numpy
+requests
+datetime
